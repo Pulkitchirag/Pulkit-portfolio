@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss(),
   ],
-  base: "/Pulkit-portfolio"
+  base: "/Pulkit-portfolio/"
 })
